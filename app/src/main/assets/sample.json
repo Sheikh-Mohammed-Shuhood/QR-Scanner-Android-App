@@ -1,0 +1,64 @@
+{
+  "teams":
+[
+  {
+    "Name": "valuea1",
+    "College name": "valuea2",
+    "USN": "valuea3",
+    "phone num": "v4",
+    "email": "v5",
+    "payment": "v6",
+    "attended": "v7",
+    "UID": "c5c194dd-597d-40e6-be9e-333b28cee45c"
+  },
+  {
+    "Name": "valuea1",
+    "College name": "valuea2",
+    "USN": "valuea3",
+    "phone num": "v4",
+    "email": "v5",
+    "payment": "v6",
+    "attended": "v7",
+    "UID": "c5c194dd-597d-40e6-be9e-333b28cee45c"
+  },
+  {
+    "Name": "valuea1",
+    "College name": "valuea2",
+    "USN": "valuea3",
+    "phone num": "v4",
+    "email": "v5",
+    "payment": "v6",
+    "attended": "v7",
+    "UID": "ee14f4d8-1c4f-477b-8eab-369db9ce9641"
+  },
+  {
+    "Name": "valuea1",
+    "College name": "valuea2",
+    "USN": "valuea3",
+    "phone num": "v4",
+    "email": "v5",
+    "payment": "v6",
+    "attended": "v7",
+    "UID": "c5c194dd-597d-40e6-be9e-333b28cee45c"
+  },
+  {
+    "Name": "valuea1",
+    "College name": "valuea2",
+    "USN": "valuea3",
+    "phone num": "v4",
+    "email": "v5",
+    "payment": "v6",
+    "attended": "v7",
+    "UID": "c5c194dd-597d-40e6-be9e-333b28cee45c"
+  },
+  {
+    "Name": "Shadow",
+    "College name": "smb",
+    "USN": "4mw",
+    "phone num": "861",
+    "email": "shaddycv@gmail.com",
+    "payment": 0,
+    "attended": 0,
+    "UID": "29b135af-5a1b-4180-8608-b0541b4451fc"
+  }
+]}
